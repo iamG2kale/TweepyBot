@@ -1,0 +1,19 @@
+blinker==1.4
+brotlipy==0.7.0
+certifi==2020.12.5
+cffi @ file:///D:/bld/cffi_1613414140225/work
+chardet @ file:///D:/bld/chardet_1610093646853/work
+cryptography @ file:///D:/bld/cryptography_1615406182527/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1593328102638/work
+oauthlib==3.0.1
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
+PyJWT @ file:///home/conda/feedstock_root/build_artifacts/pyjwt_1610910308735/work
+pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1608055815057/work
+PySocks @ file:///D:/bld/pysocks_1610291742246/work
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1608156231189/work
+requests-oauthlib @ file:///home/conda/feedstock_root/build_artifacts/requests-oauthlib_1595492159598/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
+tweepy @ file:///home/conda/feedstock_root/build_artifacts/tweepy_1608988696003/work
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1611695416663/work
+win-inet-pton @ file:///D:/bld/win_inet_pton_1610147566231/work
+wincertstore==0.2
